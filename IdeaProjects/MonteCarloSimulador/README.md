@@ -24,12 +24,8 @@ Por ejemplo:
 
 ---
 
-##  Cómo ejecutar
-
-1. Abre el proyecto en IntelliJ IDEA
-2. Compila con `Build → Build Project`
-3. Ejecuta desde `Main`:
-
+## Lenguaje Funcional
+Scala
 ---
 
 ## Fuentes
